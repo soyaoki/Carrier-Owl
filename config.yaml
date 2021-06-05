@@ -3,8 +3,7 @@ subject: 'cat:cs.* OR cat:eess.*'
 
 # 検索キーワード
 keywords:
-        driver state: 5
-        detect: 5
+        driver state detect: 5
         mind wandering: 3
         cognitive distraction: 3
         fatigue: 1
